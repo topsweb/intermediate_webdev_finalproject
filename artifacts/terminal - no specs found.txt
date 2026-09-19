@@ -1,0 +1,30 @@
+theia@theia-mdonahoe:/home/project/intermediate_webdev_finalproject$ npx jasmine
+Randomized with seed 05675
+Started
+F.
+
+Failures:
+1) Interest Rate Calculator Tests Calculate Total Interest
+  Message:
+    Expected 950 to be 1050.
+  Stack:
+        at <Jasmine>
+        at UserContext.<anonymous> (/home/project/intermediate_webdev_finalproject/spec/scriptSpec.js:15:20)
+        at <Jasmine>
+
+2 specs, 1 failure
+Finished in 0.006 seconds
+Randomized with seed 05675 (jasmine --random=true --seed=05675)
+theia@theia-mdonahoe:/home/project/intermediate_webdev_finalproject$ 
+theia@theia-mdonahoe:/home/project/intermediate_webdev_finalproject$ 
+theia@theia-mdonahoe:/home/project/intermediate_webdev_finalproject$ 
+theia@theia-mdonahoe:/home/project/intermediate_webdev_finalproject$ npx jasmine
+Randomized with seed 22758
+Started
+..
+
+
+2 specs, 0 failures
+Finished in 0.005 seconds
+Randomized with seed 22758 (jasmine --random=true --seed=22758)
+theia@theia-mdonahoe:/home/project/intermediate_webdev_finalproject$
